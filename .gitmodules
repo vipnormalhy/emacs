@@ -1,3 +1,6 @@
 [submodule "emacs24-starter-kit"]
 	path = emacs24-starter-kit
 	url = https://github.com/eschulte/emacs24-starter-kit.git
+[submodule "purcell_config"]
+	path = purcell_config
+	url = https://github.com/purcell/emacs.d.git
