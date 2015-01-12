@@ -4,6 +4,3 @@
 [submodule "purcell_config"]
 	path = purcell_config
 	url = git@github.com:purcell/emacs.d.git
-[submodule "emacs.d"]
-	path = emacs.d
-	url = git@github.com:purcell/emacs.d.git
